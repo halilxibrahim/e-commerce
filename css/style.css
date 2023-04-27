@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'MusoModerno', cursive;
+    text-decoration: none;
+    list-style-type: none;
+}
+:root{
+    --text-color: #000000;
+    --bg-color: #e5e5e5;
+    --main-color: #f29494;
+    --second-color: #fff;
+    --big-font: 5.5rem;
+    --p-font: 1rem;
+
+}
